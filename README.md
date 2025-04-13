@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Mechanical & Biomedical Engineering in Ewha Womans Univ.
 - 💞️ I’m looking to collaborate on ...various  robotics, Ai projects. 
 - 📫 How to reach me ...email: heeae5354@gmail.com
-- I ONLY POST COMPLETED PROJECTS PUBLIC 
+- I ONLY POST DONE PROJECTS PUBLIC 
 
 <!---
 heanohh/heanohh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
